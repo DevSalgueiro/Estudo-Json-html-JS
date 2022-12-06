@@ -1,0 +1,66 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	min-height: 100vh;
+	color: #333;
+}
+
+h2{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 40px;
+}
+
+.nomes{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(350px, auto));
+	grid-gap: 50px;
+	margin: 50px auto;
+	max-width: 1240px;
+	padding: 20px;
+}
+
+.informacao{
+	padding: 10px;
+	border-bottom-left-radius: 1em;
+	border-bottom-right-radius: 1em;
+	border-top-left-radius: 1em;
+	border-top-right-radius: 1em;
+	background-color: rgb(245, 245, 245);
+}
+
+.informacao img{
+	width: 100%;
+	display: block;
+	border-top-left-radius: 1em;
+	border-top-right-radius: 1em;
+}
+
+.informacao .nome{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.informacao .personagem{
+	padding: 0 20px 20px 20px;	
+	line-height: 22px;
+}
+
+.informacao .status{
+	padding: 0 20px 20px 20px;	
+	line-height: 22px;
+}
+
+.informacao .temporada{
+	padding: 0 20px 20px 20px;	
+	line-height: 22px;
+}
+

@@ -1,0 +1,67 @@
+[
+	{
+		"imagem": "fotos/01.jpg",
+		"nome": "- Winona Ryder -",
+		"personagem": "Personagem: Joyce Byers",
+		"status": "Status: Vivo",
+		"temporada": "Temporadas: 1, 2, 3 e 4"
+	},
+	{
+		"imagem": "fotos/02.jpg",
+		"nome": "- David Harbour -",
+		"personagem": "Personagem: Jim Hopper",
+		"status": "Status: Vivo",
+		"temporada": "Temporadas: 1, 2, 3 e 4"
+	},
+	{
+		"imagem": "fotos/03.jpg",
+		"nome": "- Millie Bobby Brown -",
+		"personagem": "Personagem: Onze / Jane Hooper",
+		"status": "Status: Vivo",
+		"temporada": "Temporadas: 1, 2, 3 e 4"
+	},
+	{
+		"imagem": "fotos/04.jpg",
+		"nome": "- Finn Wolfhard -",
+		"personagem": "Personagem: Mike Wheeler",
+		"status": "Status: Vivo",
+		"temporada": "Temporadas: 1, 2, 3 e 4"
+	},
+	{
+		"imagem": "fotos/05.jpg",
+		"nome": "- Gaten Matarazzo -",
+		"personagem": "Personagem: Dustin Henderson",
+		"status": "Status: Vivo",
+		"temporada": "Temporadas: 1, 2, 3 e 4"
+	},
+	{
+		"imagem": "fotos/06.jpg",
+		"nome": "- Caleb McLaughlin -",
+		"personagem": "Personagem: Lucas Sainclair",
+		"status": "Status: Vivo",
+		"temporada": "Temporadas: 1, 2, 3 e 4"
+	}
+	,
+	{
+		"imagem": "fotos/07.jpg",
+		"nome": "- Noah Schnapp -",
+		"personagem": "Personagem: William Byers",
+		"status": "Status: Vivo",
+		"temporada": "Temporadas: 1, 2, 3 e 4"
+	}
+	,
+	{
+		"imagem": "fotos/08.jpg",
+		"nome": "- Charlie Heaton -",
+		"personagem": "Personagem: Jonathan Byers",
+		"status": "Status: Vivo",
+		"temporada": "Temporadas: 1, 2, 3 e 4"
+	},
+	{
+		"imagem": "fotos/09.jpg",
+		"nome": "- Natalia Dyer -",
+		"personagem": "Personagem: Nancy Wheeler",
+		"status": "Status: Vivo",
+		"temporada": "Temporadas: 1, 2, 3 e 4"
+	}
+]
